@@ -1,5 +1,15 @@
 # @graphql-codegen/typescript-graphql-request
 
+## 3.0.1
+
+### Patch Changes
+
+- 4b1ca624: fix(plugin: graphql-requests): Fix argument types in auto-generated methods
+- Updated dependencies [63be0f40]
+- Updated dependencies [4444348d]
+- Updated dependencies [42213fa0]
+  - @graphql-codegen/visitor-plugin-common@1.18.1
+
 ## 3.0.0
 
 ### Major Changes

@@ -1,5 +1,16 @@
 # @graphql-codegen/flow-operations
 
+## 1.18.6
+
+### Patch Changes
+
+- 63be0f40: Fix issues with empty interfaces causing syntax issues
+- Updated dependencies [63be0f40]
+- Updated dependencies [4444348d]
+- Updated dependencies [42213fa0]
+  - @graphql-codegen/visitor-plugin-common@1.18.1
+  - @graphql-codegen/flow@1.18.3
+
 ## 1.18.5
 
 ### Patch Changes
